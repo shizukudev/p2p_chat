@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblang_lib.a CMakeFiles/lang_lib.dir/lang_manager.cpp.o
+/usr/bin/ranlib liblang_lib.a

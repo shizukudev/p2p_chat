@@ -1,0 +1,138 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "config",
+					"jsonFile" : "directory-config-Debug-8b7a1d9837f139bfe82c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "config",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "core",
+					"jsonFile" : "directory-core-Debug-eac7e466be7743a8be0a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "core",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "lang",
+					"jsonFile" : "directory-lang-Debug-0c8f5920a9519a25376f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lang",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "p2p_chat",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "app_lib::@57760688d1f824db5d9c",
+					"jsonFile" : "target-app_lib-Debug-e214b1eaa346da2679be.json",
+					"name" : "app_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "config_lib::@1ea838694151cac89012",
+					"jsonFile" : "target-config_lib-Debug-7c9e834010ad24b85690.json",
+					"name" : "config_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "lang_lib::@70857b9815edabdbe926",
+					"jsonFile" : "target-lang_lib-Debug-41f244fd4faf64c7aa43.json",
+					"name" : "lang_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p2p_chat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p2p_chat-Debug-e715d4fdf10c0d1e6b67.json",
+					"name" : "p2p_chat",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/gaojie/p2p_chat/build",
+		"source" : "/Users/gaojie/p2p_chat"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

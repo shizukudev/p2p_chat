@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/gaojie/p2p_chat/build",
+  "command": "/usr/bin/clang++  -I/Users/gaojie/p2p_chat/inc -I/Users/gaojie/p2p_chat/config -I/Users/gaojie/p2p_chat/core -I/Users/gaojie/p2p_chat/lang -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/p2p_chat.dir/main.cpp.o -c /Users/gaojie/p2p_chat/main.cpp",
+  "file": "/Users/gaojie/p2p_chat/main.cpp",
+  "output": "CMakeFiles/p2p_chat.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/gaojie/p2p_chat/build/config",
+  "command": "/usr/bin/clang++  -I/Users/gaojie/p2p_chat/config -I/Users/gaojie/p2p_chat/inc -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/config_lib.dir/config.cpp.o -c /Users/gaojie/p2p_chat/config/config.cpp",
+  "file": "/Users/gaojie/p2p_chat/config/config.cpp",
+  "output": "config/CMakeFiles/config_lib.dir/config.cpp.o"
+},
+{
+  "directory": "/Users/gaojie/p2p_chat/build/core",
+  "command": "/usr/bin/clang++  -I/Users/gaojie/p2p_chat/core -I/Users/gaojie/p2p_chat/config -I/Users/gaojie/p2p_chat/inc -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/app_lib.dir/app.cpp.o -c /Users/gaojie/p2p_chat/core/app.cpp",
+  "file": "/Users/gaojie/p2p_chat/core/app.cpp",
+  "output": "core/CMakeFiles/app_lib.dir/app.cpp.o"
+},
+{
+  "directory": "/Users/gaojie/p2p_chat/build/core",
+  "command": "/usr/bin/clang++  -I/Users/gaojie/p2p_chat/core -I/Users/gaojie/p2p_chat/config -I/Users/gaojie/p2p_chat/inc -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/app_lib.dir/logger.cpp.o -c /Users/gaojie/p2p_chat/core/logger.cpp",
+  "file": "/Users/gaojie/p2p_chat/core/logger.cpp",
+  "output": "core/CMakeFiles/app_lib.dir/logger.cpp.o"
+},
+{
+  "directory": "/Users/gaojie/p2p_chat/build/lang",
+  "command": "/usr/bin/clang++  -I/Users/gaojie/p2p_chat/lang -I/Users/gaojie/p2p_chat/core -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -o CMakeFiles/lang_lib.dir/lang_manager.cpp.o -c /Users/gaojie/p2p_chat/lang/lang_manager.cpp",
+  "file": "/Users/gaojie/p2p_chat/lang/lang_manager.cpp",
+  "output": "lang/CMakeFiles/lang_lib.dir/lang_manager.cpp.o"
+}
+]

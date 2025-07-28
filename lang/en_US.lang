@@ -1,0 +1,4 @@
+welcome = Welcome to the P2P chat application!
+exit_command = Type /exit to quit
+help_command = Type /help for a list of commands
+error_loading_lang = Failed to load language file
