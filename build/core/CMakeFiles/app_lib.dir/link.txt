@@ -1,2 +1,0 @@
-/usr/bin/ar qc libapp_lib.a CMakeFiles/app_lib.dir/app.cpp.o CMakeFiles/app_lib.dir/logger.cpp.o
-/usr/bin/ranlib libapp_lib.a

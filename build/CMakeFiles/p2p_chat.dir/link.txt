@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/p2p_chat.dir/main.cpp.o -o p2p_chat  config/libconfig_lib.a core/libapp_lib.a lang/liblang_lib.a config/libconfig_lib.a
